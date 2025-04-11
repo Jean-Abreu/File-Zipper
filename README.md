@@ -13,9 +13,9 @@ if you do not see one, go ahead and create a blank text file. The current direct
 ###Step 2) Open terminal and follow these steps:
   a. **Navigate to the project directory** 
   _Example_
-  '''bash
+  ```bash
   cd path/to/filezipper
-  '''
+  ```
   b. Compile the code e.g. "g++ main.cpp -o filezipper"
     -This will create an executable named filezipper
   c. Run the program with a text file:
